@@ -1,0 +1,32 @@
+main, aside {
+  width: 100%;
+  padding: 2rem;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+ol.clip-list {
+  list-style: none;
+}
+
+.clip-list .current {
+  border: 2px solid #9b4dca;
+  border-radius: 2px;
+}
+
+.clip-list li button.button {
+  padding: 0px 1rem;
+  margin-bottom: 0px;
+}
+
+.clip-list li {
+  cursor: pointer;
+  margin: .3rem 0px;
+}
+
+.clip-list li:hover {
+  background-color: #EDEDEDCC;
+}
