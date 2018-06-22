@@ -13,7 +13,7 @@ Running this project is quite simple, in your command line put the commands that
 *NPM*
 
 ```
-$ git clone https://github.com/jhia/videoclipper
+$ git clone https://github.com/jhia/videoclipper.git
 $ cd videoclipper
 $ npm install
 $ npm start
@@ -22,7 +22,7 @@ $ npm start
 *Yarn*
 
 ```
-$ git clone https://github.com/jhia/videoclipper
+$ git clone https://github.com/jhia/videoclipper.git
 $ cd videoclipper
 $ yarn
 $ yarn start
